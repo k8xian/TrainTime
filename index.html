@@ -16,7 +16,6 @@
           <!-- Bootstrap CDN-->
           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
           <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.js">
       
            <!-- Font Awesome-->
           <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
@@ -27,11 +26,11 @@
       </head>
 <body>
     <div class="container">
-            <div class="jumbotron">
-                    <h2 class="text-center">Train Time</h2>
+            <div class="jumbotron text-white">
+                    <h1 class="display-4 text-center font-weight-bold">Train Time</h1>
             </div>
             <div class="card mt-5">
-                <div class="card-header">
+                <div class="card-header bg-info text-white">
                         Train Schedule
                 </div>
                 <div class="card-body">
@@ -52,7 +51,7 @@
             
             </div>
             <div class="card mt-5">
-                <div class="card-header">
+                <div class="card-header bg-info text-white">
                         Add a Train
                 </div>    
                 <div class="card-body">
@@ -73,7 +72,7 @@
                                 <label for="searchTerm">Frequency (in minutes)</label>
                                 <input type="number" class="form-control" id="frequency-input">
                             </div>
-                            <button type="submit" class="btn btn-primary" id="button-input"><i class="fas fa-search"></i> Submit</button>
+                            <button type="submit" class="btn btn-primary bg-info" id="button-input"><i class="fas fa-search"></i> Submit</button>
                             <small id="empty-form" class="form-text text-muted">Please fill out entire form</small>
   </div>
                     </form>

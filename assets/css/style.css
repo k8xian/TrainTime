@@ -1,3 +1,5 @@
+
+
 .footer {
     bottom: 0;
     width: 100%;
@@ -10,4 +12,16 @@
 th {
     border-top: 0 !important;
     font-weight: bold;
+}
+
+.jumbotron {
+    background-image: URL('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 8em;
+}
+
+h1 {
+    text-shadow: 0 2px 3px rgba(0,0,0,.8);
 }
