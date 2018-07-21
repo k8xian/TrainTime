@@ -3,7 +3,7 @@
 * For Northwestern University's Full Stack Flex Coding Bootcamp
 
 #Deployment
-k8xian.github.io/TrainTime
+* [k8xian.github.io/TrainTime] (k8xian.github.io/TrainTime)
 
 
 #Instructions
