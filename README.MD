@@ -2,7 +2,7 @@
 * By Kate Christian
 * For Northwestern University's Full Stack Flex Coding Bootcamp
 
-**Deployment:** [k8xian.github.io/TrainTime](https://k8xian.github.io/TrainTime)
+**Deployment:** [traintime-k8xian.herokuapp.com](https://traintime-k8xian.herokuapp.com)
 
 
 ## Instructions
